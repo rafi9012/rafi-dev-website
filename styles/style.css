@@ -146,3 +146,36 @@ main section{
     margin-top: 130px;
     margin-bottom: 130px;
 }
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.resume{
+    margin-bottom: 
+}
+.resume-column-title{
+    font-weight: bold;
+    font-size: 30px;
+    color: #474747;
+}
+.experience-title{
+    font-weight: bold;
+    font-size: 25px;
+    color: #474747;
+}
+.experience-sub-title{
+    font-weight: 600px;
+    font-size: 20px;
+    color: #757575;
+}
+.experience-description{
+    font-weight: normal;
+    font-size: 16px;
+    color: #757575;
+}
+.resume hr{
+    margin: 30px 5px;
+}
+.cvrafi{
+    margin-top: 30px;
+}
