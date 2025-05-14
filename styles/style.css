@@ -179,3 +179,30 @@ main section{
 .cvrafi{
     margin-top: 30px;
 }
+
+}
+.social-links a{
+    margin-right: 24px;
+}
+footer{
+    display: flex;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 125px;
+    justify-content: space-between;
+    
+}
+
+.footer -column{
+    width: 50%;
+}
+.contact input[type="text"], textarea{display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    width: 100%;
+    border-radius: 5px;
+    border: opx;
+}
