@@ -90,7 +90,9 @@ header{
 .common-col-1{
     font-weight: bold;
     font-size: 35px;
-    color: #181818;}
+    color: #181818;
+
+}
 
 .common-col-2{
     font-weight: normal;
@@ -113,6 +115,34 @@ header{
         margin-top: 130px;
         
     }
-.secondary-bg{background-color: #FFF8F3;
-
+.secondary-bg{background-color: #FFF8F3;}
+.text-centre{
+    text-align: center;
+}
+    
+.skill-container{
+    display: flex;
+    margin-right: 24px;
+    
+    gap: 25px;
+    
+}
+.skill-title{
+    font-weight: bold;
+    font-size: 20px;
+    color: #181818;
+}
+.skill-description{
+    font-weight: normal;
+    font-size: 16px;
+    color: #757575;
+}
+.skill{
+    padding: 30px;
+   box-shadow: 0px 6px 50px 0px black;
+   border-radius: 5px;
+}
+main section{
+    margin-top: 130px;
+    margin-bottom: 130px;
 }
