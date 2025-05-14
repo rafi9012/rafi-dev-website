@@ -1,0 +1,82 @@
+/* ALL FONT STYLE */
+.open-sans-all {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+ 
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+/* NAV STYLE */
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 200px;
+}
+.extra-bold{
+    font-weight: 800;
+    font-size: 45px;
+}
+.only-r-style{
+    color: #FD6E0A;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 51px;
+}
+nav ul a{
+    text-decoration: none;
+}
+nav ul{
+    display: flex;
+}
+.share-style{
+    font-weight: normal;
+    font-size: 20px;
+    color: #474747;
+}
+
+/* SHARED STYLE */
+.btn-primary{
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    padding: 20px 35px
+}
+.hi-am{
+    font-weight: 600;
+    font-size: 45px;
+    color: #474747;
+}
+.mary{
+    font-weight: bold;
+    font-size: 85px;
+    color: #181818;
+}
+.regular{
+    font-weight: normal;
+    font-size: 18px;
+    color: #757575;
+}
+.bonding{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.banner-container{margin-left: 200px;
+    margin-bottom: 15px;
+   
+}
+.handy-pic{
+    width: 584px;
+    height: 676px;
+}
+header{
+    background-image: url(../batch9-portfolio-resources/images/developer.png), url(../batch9-portfolio-resources/images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+}
